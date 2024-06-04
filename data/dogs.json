@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "namn": "Max",
+    "ras": "Golden Retriever",
+    "bild": "https://images.unsplash.com/photo-1611250282006-4484dd3fba6b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "beskrivning": "En vänlig och lekfull hund som älskar att hälsa på alla."
+  },
+  {
+    "id": 2,
+    "namn": "Bella",
+    "ras": "Labrador",
+    "bild": "https://images.unsplash.com/photo-1552575595-38bfbd75841a?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "beskrivning": "En energisk hund som älskar att springa och leka med bollar."
+  },
+  {
+    "id": 3,
+    "namn": "Rocky",
+    "ras": "Boxer",
+    "bild": "https://images.unsplash.com/photo-1558349699-1e1c38c05eeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "beskrivning": "En modig och lojal hund som alltid skyddar sin familj."
+  },
+  {
+    "id": 4,
+    "namn": "Luna",
+    "ras": "Siberian Husky",
+    "bild": "https://images.unsplash.com/photo-1617895153857-82fe79adfcd4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "beskrivning": "En vacker hund med blå ögon och en passion för att springa långa sträckor."
+  },
+  {
+    "id": 5,
+    "namn": "Charlie",
+    "ras": "Cavalier King Charles Spaniel",
+    "bild": "https://images.unsplash.com/photo-1617129724623-84f1d2fd78f3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "beskrivning": "En kelig och charmig hund som älskar att sitta i knät."
+  },
+  {
+    "id": 6,
+    "namn": "Daisy",
+    "ras": "Beagle",
+    "bild": "https://images.unsplash.com/photo-1586917383423-c25e88ac05ce?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "beskrivning": "En nyfiken hund med en fantastisk luktsinne."
+  },
+  {
+    "id": 7,
+    "namn": "Maximus",
+    "ras": "Rottweiler",
+    "bild": "https://images.unsplash.com/photo-1643811356771-dc2c1a53e235?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "beskrivning": "En imponerande och stark hund som älskar att vara med sin människa."
+  }
+]

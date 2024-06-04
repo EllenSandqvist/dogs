@@ -1,0 +1,27 @@
+<%- include("./layout/header") %>
+<main>
+    <div class="containerCards">
+        <% for(let i=0; i < dogs.length; i++){ %>
+            <a href="/dogs/<%=dogs[i].id %>">
+                <div class="dogCard">
+                    <div class="placeholderForImage">
+                        <img src="<%=dogs[i].bild%>">
+                    </div>
+
+                    <div class="containerTitles">
+                        <div class="name">
+                           <h3><%= dogs[i].namn %></h3> 
+                        </div>
+
+                        <div class="subTitle">
+                            <p><strong>Ras: </strong> <%= dogs[i].ras %></p>
+                            <p><%= dogs[i].beskrivning %></p>   
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <% } %>
+
+    </div>
+</main>
+<%- include("./layout/footer") %>
